@@ -1,4 +1,4 @@
-# RenShopBee
+# eTrendz
 
 To view this project click on it [RenShopBee](https://renoshop-bee.netlify.app/).
 
